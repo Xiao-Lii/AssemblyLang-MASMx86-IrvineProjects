@@ -1,5 +1,5 @@
 TITLE inclassMenu.asm
-;// Author:  Diane Yoha(Base) - Lee Phonthongsy(Option 2-4)
+;// Author:  Diane Yoha(Base) - Lee P(Option 2-4)
 ;// Date:    October 2020
 ;// Description: This program presents a menu allowing the user to pick a menu option
 ;//              which then performs a given task.
