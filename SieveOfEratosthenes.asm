@@ -1,5 +1,5 @@
 TITLE SieveOfEratosthenes.asm
-;// Author:  Lee Phonthongsy
+;// Author:  Lee P
 ;// Date:    November 2020
 ;// Description: This program presents a menu allowing the user to pick a menu option
 ;//              which then prints all prime numbers from 2 up to n, which will be a user
